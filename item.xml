@@ -1,0 +1,7 @@
+	<item>
+		<title>{{{title}}}</title>
+		<link>{{{link}}}</link>
+		<guid>{{{url}}}</guid>
+		<enclosure url="{{{url}}}" type="audio/mpeg"/>
+	</item>
+
